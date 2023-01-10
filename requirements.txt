@@ -1,0 +1,8 @@
+django==3.2.16
+django-environ==0.9.0   #permisos a contraseñas ocultas
+django-cors-headers==3.13.0  #acceso a  apis externas
+djangorestframework==3.14.0  #crear apis
+Pillow==9.3.0  #trabajar con imagenes
+django-storages==1.13.1 #guardar imagenes en aws
+django-ckeditor==6.3.2   #fuentes y otras contraseñas 
+psycopg2==2.9.5  #bases de datos sqlprogress
